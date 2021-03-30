@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nickyw100
+- 👋 Hi, I’m Nick Wilson
 - 👀 I’m interested in APIs and Crystal Palace Football Club
 - 🌱 I’m currently learning AWS
 - 📫 How to reach me nick@wilson-soft.com
